@@ -1,2 +1,37 @@
-# Naseej-Telecom-AI
-AI-Powered Automated Diagnostics &amp; Self-Healing Network Ecosystem for Algérie Télécom
+# 🌐 مشروع نَسِيج | Naseej-Telecom-AI
+> **AI-Powered Automated Diagnostics & Self-Healing Network Ecosystem for Algérie Télécom.**
+
+---
+
+## 📌 1. الرؤية العامة للمشروع (Executive Summary)
+مشروع **"نَسِيج" (Naseej)** هو نظام بيئي ذكي مصمم خصيصاً لتطوير البنية التحتية وخدمات الزبائن لشركة **اتصالات الجزائر (Algérie Télécom)**. يعتمد المشروع على تقنيات **الذكاء الاصطناعي التشغيلي (AIOps)**، **والحوسبة الطرفية (Edge Computing)** لتحويل الشبكة من نظام تفاعلي تقليدي (Reactive) إلى شبكة ذاتية الشفاء وتنبؤية (Proactive Self-Healing Network).
+
+---
+
+## ⚡ 2. الركائز التقنية الأساسية (Core Architecture)
+
+### 🔹 أ. المساعد الذكي لخدمة الزبائن (Local NLP Engine)
+* روبوت دردشة مخصص يفهم اللهجة الجزائرية الدارجة والمصطلحات التقنية المحلية.
+* قدرة على التمييز بين أنواع الأعطال (بطء التدفق، انقطاع الألياف البصرية FTTH، مشاكل المودم).
+* تنفيذ عمليات الفحص والإصلاح الفوري بدون وسيط بشري (Zero-Touch Resolution).
+
+### 🔹 ب. الروتر الذكي والتشخيص الآلي (Telemetry & Self-Healing)
+* مراقبة حية ومستمرة لمؤشرات الأداء الأساسية:
+  * **Latency / Ping** (زمن الاستجابة).
+  * **Optical Signal Power** (قوة إشارة الألياف البصرية).
+  * **Bandwidth Throughput** (سرعة التدفق الحقيقية).
+* القدرة على إعادة ضبط المنافذ (Port Refresh) وإعادة توجيه المسار (Rerouting) آلياً عند حدوث خلل.
+
+### 🔹 ج. الصيانة التنبؤية (Predictive Maintenance)
+* تحليل البيانات الضخمة (Big Data) للتنبؤ بانقطاع الكابلات أو اختناق الشبكة قبل حدوثه بنحو 24-48 ساعة، وإشعار فرق الصيانة الاستباقية.
+
+---
+
+## 🛠️ 3. النموذج التجريبي الأولي (Pilot Prototype)
+
+تم اختبار وتشغيل أول نموذج مبدئي (Node Pilot) لمحاكاة شبكة المشتركين في **ولاية البيض** بنجاح، باستخدام خوارزميات بايثون المدمجة في ملف `naseej_core.py`.
+
+### 🚀 تشغيل الكود تجريبياً (How to Run):
+```bash
+# تشغيل النظام الأساسي
+python naseej_core.py
