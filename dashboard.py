@@ -117,4 +117,4 @@ work_orders = pd.DataFrame({
 st.dataframe(work_orders, use_container_width=True)
 
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: #64748b;'>منصة A.S.M.A.A — هندسة وتطوير: <b>أسماء كخنان</b> | اتصالات الجزائر 🇩🇿</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #64748b;'>منصة A.S.M.A.A — هندسة وتطوير: <b>أسماء خنان</b> | اتصالات الجزائر 🇩🇿</p>", unsafe_allow_html=True)
